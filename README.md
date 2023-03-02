@@ -1,16 +1,18 @@
 # bloc_fire
-
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application using Bloc as the basis for its design pattern, all based from bloc website (https://bloclibrary.dev).
+And will soon be used as a basis for any upcoming project with Bloc as the design pattern.
 
-A few resources to get you started if this is your first Flutter project:
+This will also serve as a learning guide as there will be thorough documentations in the code.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Steps done(All listed in GitHub Repo): 
+- Initial Commit
+    - Initial files and folders added to the project
+- Basic Login: Serves as a pre-cursor for any Authentication method
+    - Added necessary dependencies for a Bloc-based project
+    - Added package/auth_repo for authentication domain
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Resources: 
+bloc documentation - https://bloclibrary.dev/
+firebase documentation - https://firebase.google.com/docs/
