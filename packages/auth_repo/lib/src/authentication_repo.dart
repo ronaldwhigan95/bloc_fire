@@ -1,8 +1,7 @@
 import 'dart:async';
-import 'package:packages/auth_repo/enums/auth_enum.dart';
+import 'package:auth_repo/src/enums/auth/auth_enum.dart';
 
-class AuthenticationRepo{
-
+class AuthenticationRepo {
   //Controller used to monitor changes in the Stream
   final _controller = StreamController<AuthenticationStatus>();
 
